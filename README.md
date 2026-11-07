@@ -1,2 +1,2 @@
-# freq-sweeper
+# FreqSweeper
 Automated frequency sweep using an oscilloscope.
