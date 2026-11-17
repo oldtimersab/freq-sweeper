@@ -12,3 +12,13 @@ Automatiskt frekvenssvep med hjälp av ett oscilloskop.
 # Projektets Scrum arbetsflöde
 
 LÄGG TILL BESKRIVNING OM SCRUM ARBETSFLÖDET SOM VI ANVÄNDER.
+
+# Arkitekturdiagram
+
+## Enkelt utförande
+
+![Enkelt utförande](/docs/local_architecture.svg)
+
+## Avancerat utförande
+
+![Avancerat utförande](/docs/server_architecture.svg)
