@@ -1,0 +1,21 @@
+swimlane-beta LR
+  subgraph user [User]
+    userStart[Start app]
+    selectInstrument[Configure new, or select previously configured instrument]
+    defineMeasurement[Define measurement parameters]
+    startMeasurement[Start measurement]
+  end
+
+  subgraph frontend [Frontend]
+    loadInstrumentPage[Load 'Instruments' page]
+    loadSelectedInstrumentPage[Load page for selected instrument]
+    sendMeasurementData[Create JSON with measurement parameters]
+  end
+
+  subgraph backend [Backend]
+    startBackend[Start backend locally on user machine]
+    loginAsAdmin[Automatically login as 'Admin']
+    runMeasurement[Run measurement with user specified parameters]
+  end
+
+  userStart --> startBackend --> loginAsAdmin --> loadInstrumentPage --> selectInstrument -->  loadSelectedInstrumentPage --> defineMeasurement --> startMeasurement --> sendMeasurementData --> runMeasurement
