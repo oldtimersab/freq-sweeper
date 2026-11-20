@@ -1,5 +1,73 @@
 # Aktivitetslogg - Automated Frequency Sweep Using an Oscilloscope, projektgrupp 1
 
+## Vecka 47 (2026-11-20)
+
+**Skrivare denna vecka:** Elias Olofsson
+
+**Sprint:** Sprint 0
+
+### 1. Veckans mål
+
+*Vad ville gruppen åstadkomma den här veckan? Under en sprint: Sprint Goal.*
+
+- Färdigställ designdokument över vår tolkning av vad applikationen ska
+  innefatta som PO sedan ger sina synpunkter på.
+
+- Rita arkitekturdiagram utifrån motsvarande designdokument.
+
+### 2. Gjort
+
+*Det som blev klart eller kom en bit på väg, med länk till issue eller pull request.*
+
+- [Designdokumentet](https://github.com/oldtimersab/freq-sweeper/issues/4)
+  från föregående vecka färdigställdes.
+
+- Arkitektur- och Swimlanediagram skapades. Dessa länkas till via
+  designdokumentet.
+
+### 3. Beslut
+
+*Beslut: vad ni bestämde, varför, och vem som var med (till exempel PO). Länk om
+beslutet finns i en issue.*
+
+- Designdokumentet har accepterats inom gruppen, PO har ännu inte gett sina
+  synpunkter.
+
+### 4. Hinder och problem
+
+*Vad som hindrade er eller är oklart, och vem som tar tag i det. Vad ni behöver
+från PO.*
+
+- Inga hinder denna vecka.
+
+### 5. Vad vi ändrar till nästa vecka
+
+*En sak ni gör annorlunda, och hur det gick med förra veckans ändring.*
+
+- **Förra veckan**
+  - Inget dokument för projektmöte har upprättats ännu.
+
+### 6. AI-användning
+
+*Var gruppen använde AI-verktyg, enligt beslutet med handledaren, och vem som granskade
+resultatet. Skriv "ingen" om ni inte använde AI.*
+
+- Endast diskussion med AI för synpunkter om designdokumentet har hållits.
+
+### 7. Plan och utfall (frivilligt, från gruppens planering)
+
+*Till exempel: planerade backlogposter denna vecka: 5, klara: 3. Vad var
+svårare eller lättare än vi trodde? Inga timmar per person.*
+
+- Inget att rapportera i nuläget.
+
+### Vid sprintgräns (fyll i den vecka en sprint slutar)
+
+*Har vi sett över gruppens beslut om AI-användning med PO? Behöver vår
+Definition of Done ändras? Vilken ändring tar vi med till nästa sprint?*
+
+- Inte vid sprintgräns vid skrivning av loggen.
+
 ---
 
 ## Vecka 46 (2026-11-13)
